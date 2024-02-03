@@ -6,3 +6,5 @@
 - ⚡ Fun fact: 1.badminton 2.guitar 3.suona horn
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianwei1129&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=qianwei1129&theme=dracula)
