@@ -7,4 +7,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianwei1129&layout=compact&theme=tokyonight)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=qianwei1129&theme=dracula)
+[![qianwei1129's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qianwei1129&theme=nord)](https://github.com/qianwei1129/github-readme-activity-graph)
+
